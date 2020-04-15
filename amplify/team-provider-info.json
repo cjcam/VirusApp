@@ -1,0 +1,15 @@
+{
+    "app": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-virus-app-163117-authRole",
+            "UnauthRoleArn": "arn:aws:iam::822183528937:role/amplify-virus-app-163117-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::822183528937:role/amplify-virus-app-163117-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-virus-app-163117-deployment",
+            "UnauthRoleName": "amplify-virus-app-163117-unauthRole",
+            "StackName": "amplify-virus-app-163117",
+            "StackId": "arn:aws:cloudformation:us-west-2:822183528937:stack/amplify-virus-app-163117/e5be8910-7470-11ea-95ab-06ee5e9000d6",
+            "AmplifyAppId": "d780npk2z7dum"
+        }
+    }
+}

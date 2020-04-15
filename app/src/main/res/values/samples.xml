@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sample_en_us_ivy">"You have a cold."</string>
+    <string name="sample_en_us_joey">"You might have the flu."</string>
+    <string name="sample_en_us_justin">"You need to see a doctor."</string>
+</resources>
